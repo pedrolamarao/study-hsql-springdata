@@ -1,0 +1,4 @@
+CREATE TABLE thing (
+    id INTEGER IDENTITY PRIMARY KEY,
+    name LONGVARCHAR
+);

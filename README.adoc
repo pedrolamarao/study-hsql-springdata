@@ -1,0 +1,5 @@
+= study-hsql-springdata
+:author: Pedro Lamarão <pedro.unglue658@passinbox.com>
+:icons: font
+
+Estudo em servir dados de HSQL via Spring Data.
