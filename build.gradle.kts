@@ -10,3 +10,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-webflux")
     runtimeOnly("org.hsqldb:hsqldb")
 }
+
+repositories {
+    mavenCentral()
+}
